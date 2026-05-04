@@ -6,9 +6,9 @@ A role-based attendance management REST API for a fictional state-level skilling
 
 ## 1. Live API
 
-**Base URL:** `https://skillbridge-api.onrender.com`
+**Base URL:** `https://skillbridge-lms.onrender.com/`
 
-**Interactive Docs:** `https://skillbridge-api.onrender.com/docs`
+**Interactive Docs:** `https://skillbridge-lms.onrender.com/docs`
 
 > **Note:** Render free tier spins down after 15 minutes of inactivity. The first request may take 30–60 seconds to wake up.
 
